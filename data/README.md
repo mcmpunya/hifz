@@ -1,0 +1,1 @@
+Memorizing quran app. data from tanzil.net. made with next.js
